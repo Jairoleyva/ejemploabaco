@@ -1,0 +1,17 @@
+seleccionar  free
+luego ir  a  finich
+
+sirve  para trabajar  proyectos juntos  con personas
+clic  en nombre
+ luiego  clic  en repositores
+clic  en nuevo
+
+aBRIR  GIT  BATCH
+
+pasos
+git config --globaluser.name"nombre"
+git config --global  user.email   correo@gmail.com
+gitconfig --list
+git clone
+
+luego  ir  ala pagina  principal   de  git
